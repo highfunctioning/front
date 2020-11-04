@@ -1,0 +1,3 @@
+flag =grwfjkwefoj320ei1=3024hfiewfj3qpi
+User-agent: Googlebot
+Disallow: /nogooglebot/
